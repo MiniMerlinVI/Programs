@@ -1,0 +1,24 @@
+C:\Users\simon.barratt\Development\Breakout\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\simon.barratt\Development\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\simon.barratt\Development\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\simon.barratt\Development\Breakout\Breakout\bin\Debug\SdlDotNet.dll
+C:\Users\simon.barratt\Development\Breakout\Breakout\bin\Debug\Tao.Sdl.dll
+C:\Users\simon.barratt\Development\Breakout\Breakout\bin\Debug\SdlDotNet.xml
+C:\Users\simon.barratt\Development\Breakout\Breakout\bin\Debug\Tao.Sdl.xml
+C:\Users\simon.barratt\Development\Breakout\Breakout\obj\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\simon.barratt\Development\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\simon.barratt\Development\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.Cache
+C:\Users\simon.barratt\Development\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\Users\simon.barratt\Development\Breakout\Breakout\obj\Debug\Breakout.pdb
+E:\Breakout Game\Breakout\Breakout\bin\Debug\Breakout.exe.config
+E:\Breakout Game\Breakout\Breakout\obj\Debug\Breakout.exe
+E:\Breakout Game\Breakout\Breakout\obj\Debug\Breakout.pdb
+E:\Breakout Game\Breakout\Breakout\bin\Debug\Breakout.exe
+E:\Breakout Game\Breakout\Breakout\bin\Debug\Breakout.pdb
+E:\Breakout Game\Breakout\Breakout\bin\Debug\SdlDotNet.dll
+E:\Breakout Game\Breakout\Breakout\bin\Debug\Tao.Sdl.dll
+E:\Breakout Game\Breakout\Breakout\bin\Debug\SdlDotNet.xml
+E:\Breakout Game\Breakout\Breakout\bin\Debug\Tao.Sdl.xml
+E:\Breakout Game\Breakout\Breakout\obj\Debug\Breakout.csprojResolveAssemblyReference.cache
+E:\Breakout Game\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+E:\Breakout Game\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.Cache
