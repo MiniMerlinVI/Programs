@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="7039f7c4-27ef-4438-90ae-6a5fa1906b76" name="SpriteSheet" linkedPackageId="16f5e985-01a5-4c26-b860-42bdb8689b0e" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="108e6707-790f-4335-9798-bb9d718178e3">
+      <profileInstance Id="6bcd3aa5-edf3-404d-940e-cc5f72ce6ad6" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="8647d1f2-6bdf-4aa2-952e-88af0203a03d">
+      <profileInstance Id="ea0e6dd9-9cb1-4a6f-92c5-1c3b24d542d7" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="40bb34a1-71ca-4893-b1cb-010aa29c3140" name="SpriteSheet" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="49b45d2a-3a0e-4741-a230-18c9a9829ee9" />
+        <targetEnds>
+          <association Id="e6e3b176-ba58-4a1c-9401-314d042eba59" isDerived="false" sourceEndRoleName="" targetEndRoleName="rectangles" isLeaf="false" isAbstract="false">
+            <classMoniker Id="d65eadd2-ce45-43bf-91ca-4bfbca95d643" LastKnownName="Rectangle" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="9cf83d7f-c0c4-465a-8f86-5a5188f1c96e" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="74619ba8-31b5-425b-be58-fc26ba4c8744" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="ee59c92f-cfbd-46d7-87ab-2a82b382ce2b" name="rectangles" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <lowerValueInternal>
+                    <literalString Id="41e09016-498f-4b93-8a57-d6ea0ad7b727" name="Lower" value="0">
+                      <elementDefinition Id="52b28acc-5f30-403a-9e92-24c230619b4d" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="f747d966-417e-4765-bac7-57ea3066bef5" name="Upper" value="*">
+                      <elementDefinition Id="813d2409-ad26-420d-a5d9-a74e0160033d" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="577c540d-d869-443e-966d-a30a591513bf" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="009f6020-deb5-4c58-a583-88242a9afe44" />
+          </association>
+        </targetEnds>
+        <ownedAttributesInternal>
+          <property Id="44df01cc-af30-44ca-a55c-0344dbcfa621" name="filename" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="1686f65e-74b6-4764-b344-1d13f4490e1b" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="b45c29f5-a3b8-4300-b9a3-f43b3beda0c0" LastKnownName="string" />
+            </type_NamedElement>
+          </property>
+          <property Id="73daaf76-4585-496f-835a-b1fc483a9ffa" name="rectangles" visibility="Private" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="a8b005da-6e78-4c97-91f2-06631e493abc" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="d36cd849-972b-452c-b929-26614d3dc1b6" LastKnownName="List&lt;Rectangle&gt;" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="16008875-8dbb-42e8-975b-7197dc965a25" name="load" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="24f1f403-aa6d-4ddd-842c-fa57674066ec" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4a218847-c499-4a69-a61d-3720ad8eaf5a" name="filename" direction="In" isUnique="false">
+                  <elementDefinition Id="7e6e21b1-9cbb-47f8-92ad-3ca723931398" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="b45c29f5-a3b8-4300-b9a3-f43b3beda0c0" LastKnownName="string" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="e163b2df-ba13-4f2e-9a73-7c373416f099" name="getImageFilename" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="f054e967-bb03-44be-8d2f-645f934c56b5" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="4ab578ed-d68a-4244-a198-953cfc576e54" direction="Return" isUnique="false">
+                  <elementDefinition Id="8f614322-ec6b-4f7c-b9f7-c70db3d5ebbc" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="b45c29f5-a3b8-4300-b9a3-f43b3beda0c0" LastKnownName="string" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="8daeb628-3247-4d22-a6b5-c614bd2e5116" name="getRectangle" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="9da09565-cca1-4fa3-a7c7-7a2175c4f785" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="7fb5be80-f450-4a30-bdd6-44290f96c829" name="index" direction="In" isUnique="false">
+                  <elementDefinition Id="0015ec98-552b-41ca-aef4-3b2497d3774d" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e1340ed9-5210-472a-bfcc-0f2c01dd9199" LastKnownName="integer" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="ed1335eb-c105-4871-89d1-700de3ea9da9" direction="Return" isUnique="false">
+                  <elementDefinition Id="f975a11b-81af-4301-9319-fae30b0120dc" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="73322686-56bd-4363-a56b-c6cbbec5bb9f" LastKnownName="Rectangle" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+          <operation Id="71d51385-3026-48c3-ba32-94b4e58c510a" name="getRectangleCount" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="0e459f27-5b05-431e-bbef-84ed36ee0ed0" />
+            <ownedParameters>
+              <operationHasOwnedParameters>
+                <parameter Id="fc7be2da-911a-45a0-b281-ad7a873c2140" direction="Return" isUnique="false">
+                  <elementDefinition Id="67a0bccd-6421-442e-ad43-dce71f82c78e" />
+                  <type_NamedElement>
+                    <referencedTypeMoniker Id="e1340ed9-5210-472a-bfcc-0f2c01dd9199" LastKnownName="integer" />
+                  </type_NamedElement>
+                </parameter>
+              </operationHasOwnedParameters>
+            </ownedParameters>
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="b45c29f5-a3b8-4300-b9a3-f43b3beda0c0" name="string" isAbstract="false" isLeaf="false" cachedFullName="string">
+        <elementDefinition Id="2d80d4a5-2c58-45db-9e18-b6c1de47d37e" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="d36cd849-972b-452c-b929-26614d3dc1b6" name="List&lt;Rectangle&gt;" isAbstract="false" isLeaf="false" cachedFullName="List&lt;Rectangle&gt;">
+        <elementDefinition Id="5d01175f-4b58-443a-b89e-31b26c2e2307" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="e1340ed9-5210-472a-bfcc-0f2c01dd9199" name="integer" isAbstract="false" isLeaf="false" cachedFullName="integer">
+        <elementDefinition Id="9dd928e0-9a01-48c4-8905-15bb049ebf02" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="73322686-56bd-4363-a56b-c6cbbec5bb9f" name="Rectangle" isAbstract="false" isLeaf="false" cachedFullName="Rectangle">
+        <elementDefinition Id="5245e1d5-df38-4e00-8355-84286dbae9f7" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="d65eadd2-ce45-43bf-91ca-4bfbca95d643" name="Rectangle" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="2c35d95a-a254-4a9c-b02d-f819f8717772" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="16f5e985-01a5-4c26-b860-42bdb8689b0e" name="Modeling">
+    <elementDefinition Id="eb12d5ac-6a55-4258-9dff-1e71436201d2" />
+  </package>
+</logicalClassDesignerModel>

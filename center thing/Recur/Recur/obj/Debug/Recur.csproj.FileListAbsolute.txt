@@ -1,0 +1,54 @@
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\Recur.exe.config
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\Recur.exe
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\Recur.pdb
+C:\Users\Simon\Development\Recur\Recur\obj\Debug\Recur.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Development\Recur\Recur\obj\Debug\Recur.Properties.Resources.resources
+C:\Users\Simon\Development\Recur\Recur\obj\Debug\Recur.csproj.GenerateResource.Cache
+C:\Users\Simon\Development\Recur\Recur\obj\Debug\Recur.exe
+C:\Users\Simon\Development\Recur\Recur\obj\Debug\Recur.pdb
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\jpeg.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\libfreetype-6.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\libogg-0.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\libpng12-0.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\libtiff-3.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\libvorbis-0.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\libvorbisfile-3.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\mikmod.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\SDL.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\SDL_gfx.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\SDL_image.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\SDL_mixer.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\SDL_net.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\SDL_ttf.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\smpeg.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\Tao.Sdl.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\zlib1.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\SdlDotNet.dll
+C:\Users\Simon\Development\Recur\Recur\bin\Debug\images\tree-icon.ico
+D:\center thing\Recur\Recur\bin\Debug\Recur.exe.config
+D:\center thing\Recur\Recur\obj\Debug\Recur.exe
+D:\center thing\Recur\Recur\obj\Debug\Recur.pdb
+D:\center thing\Recur\Recur\bin\Debug\Tao.Sdl.dll
+D:\center thing\Recur\Recur\bin\Debug\images\tree-icon.ico
+D:\center thing\Recur\Recur\bin\Debug\jpeg.dll
+D:\center thing\Recur\Recur\bin\Debug\libfreetype-6.dll
+D:\center thing\Recur\Recur\bin\Debug\libogg-0.dll
+D:\center thing\Recur\Recur\bin\Debug\libpng12-0.dll
+D:\center thing\Recur\Recur\bin\Debug\libtiff-3.dll
+D:\center thing\Recur\Recur\bin\Debug\libvorbis-0.dll
+D:\center thing\Recur\Recur\bin\Debug\libvorbisfile-3.dll
+D:\center thing\Recur\Recur\bin\Debug\mikmod.dll
+D:\center thing\Recur\Recur\bin\Debug\SDL.dll
+D:\center thing\Recur\Recur\bin\Debug\SDL_gfx.dll
+D:\center thing\Recur\Recur\bin\Debug\SDL_image.dll
+D:\center thing\Recur\Recur\bin\Debug\SDL_mixer.dll
+D:\center thing\Recur\Recur\bin\Debug\SDL_net.dll
+D:\center thing\Recur\Recur\bin\Debug\SDL_ttf.dll
+D:\center thing\Recur\Recur\bin\Debug\smpeg.dll
+D:\center thing\Recur\Recur\bin\Debug\zlib1.dll
+D:\center thing\Recur\Recur\bin\Debug\Recur.exe
+D:\center thing\Recur\Recur\bin\Debug\Recur.pdb
+D:\center thing\Recur\Recur\bin\Debug\SdlDotNet.dll
+D:\center thing\Recur\Recur\obj\Debug\Recur.csprojResolveAssemblyReference.cache
+D:\center thing\Recur\Recur\obj\Debug\Recur.Properties.Resources.resources
+D:\center thing\Recur\Recur\obj\Debug\Recur.csproj.GenerateResource.Cache

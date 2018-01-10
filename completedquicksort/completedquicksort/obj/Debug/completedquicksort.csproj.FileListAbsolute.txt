@@ -1,0 +1,6 @@
+D:\completedquicksort\completedquicksort\bin\Debug\completedquicksort.exe.config
+D:\completedquicksort\completedquicksort\bin\Debug\completedquicksort.exe
+D:\completedquicksort\completedquicksort\bin\Debug\completedquicksort.pdb
+D:\completedquicksort\completedquicksort\obj\Debug\completedquicksort.csprojResolveAssemblyReference.cache
+D:\completedquicksort\completedquicksort\obj\Debug\completedquicksort.exe
+D:\completedquicksort\completedquicksort\obj\Debug\completedquicksort.pdb
